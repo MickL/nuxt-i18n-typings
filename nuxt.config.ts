@@ -1,4 +1,3 @@
-import {defineOrganization} from 'nuxt-schema-org/schema';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineNuxtConfig({
